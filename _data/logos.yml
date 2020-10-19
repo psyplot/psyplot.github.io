@@ -1,0 +1,6 @@
+- name: HZG
+  image_path: /assets/images/hzg-logo.jpg
+  url: https://hzg.de
+- name: HCDC
+  image_path: /assets/images/hcdc-logo.gif
+  url: https://hcdc.hzg.de

@@ -1,9 +1,19 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: Examples
+    url: https://psyplot.github.io/examples
+  - title: Projects
+    url: /#projects
+  - title: Contact
+    url: /#contribute
+
+footer:
+  - title: Imprint
+    url: https://www.hzg.de/public_relations_media/imprint/index.php.en
+  - title: Data Protection
+    url: https://www.hzg.de/public_relations_media/imprint/privacy_policy/index.php.en
+  - title: Accessibility
+    url: https://www.hzg.de/public_relations_media/imprint/accessibility/index.php.en
+  - title: Code of Conduct
+    url: https://github.com/psyplot/psyplot/blob/master/CODE_OF_CONDUCT.md
+  - title: License
+    url: https://github.com/psyplot/psyplot.github.io/blob/master/LICENSE

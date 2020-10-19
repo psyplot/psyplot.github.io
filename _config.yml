@@ -14,11 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: psyplot
+name: Philipp S. Sommer
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   The interactive visualization framework
 github_username: psyplot
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: false
 
 # Build settings
@@ -28,17 +29,16 @@ remote_theme: mmistakes/minimal-mistakes
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - scripts
+  - _site
+  - Gemfile
+  - Rakefile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - LICENSE
+  - ci
 
 # Plugins (previously gems:)
 plugins:
@@ -55,7 +55,7 @@ footer:
       icon: "fab fa-fw fa-gitter"
       url: "https://gitter.im/psyplot"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "white fab fa-fw fa-github"
       url: "https://github.com/psyplot"
     - label: "Mailing list"
       icon: "fas fa-fw fa-mail-bulk"

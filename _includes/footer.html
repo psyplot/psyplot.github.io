@@ -14,4 +14,28 @@
   </ul>
 </div>
 
+<div class="page__footer-logos">
+  <ul class="logos">
+
+      {% for logo in site.data.logos %}
+        <li>
+          {% if logo.url %}
+            <a href="{{ logo.url }}" rel="nofollow noopener noreferrer" title="{{ logo.name | default: logo.url }}">
+          {% endif %}
+          <img src="{{ logo.image_path | relative_url }}" alt="{{ logo.alt | default: logo.name }}" />
+          {% if logo.url %}
+             </a>
+          {% endif %}
+        </li>
+      {% endfor %}
+
+  </ul>
+</div>
+
+<div class="page__footer-nav">
+  {% for link in site.data.navigation.footer %}
+    <a href="{{ link.url | relative_url }}" rel="nofollow noopener noreferrer">{{ link.title }}</a>
+  {% endfor %}
+</div>
+
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
