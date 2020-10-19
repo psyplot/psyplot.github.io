@@ -32,7 +32,7 @@ feature_row:
       excerpt: |
           The 2D plotmethods support the visualization of unstructured grids,
           such as the
-          <a href="http://www.mpimet.mpg.de/en/science/models/icon-esm.html" title="ICON Earth system model of the Max-Planck-Institute for Meteorology">ICON</a> model
+          <a href="https://mpimet.mpg.de/en/science/models/icon-esm.html" title="ICON Earth system model of the Max-Planck-Institute for Meteorology">ICON</a> model
           or the <a href="http://ugrid-conventions.github.io/ugrid-conventions/">UGRID</a> conventions.
 
     - image_path: /assets/images/example-plots.png
@@ -49,7 +49,7 @@ feature_row:
     - image_path: /assets/images/script.png
       alt: python logo
       title: Usage in Scripts
-      url: https://psyplot.readthedocs.io/en/latest/getting-started.html
+      url: https://psyplot.readthedocs.io/en/latest/getting_started.html
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fab fa-python"></i> Get started
       excerpt: |
@@ -190,7 +190,7 @@ project_row:
 We are always looking for contributors providing new plugins, formatoptions,
 code snippets, etc.! The [developers guide][devguide] provide some general
 background on the framework. We are looking forward to your PR in one of our
-[repositories on Github](github), or transform your code-snippets into
+[repositories on Github][github], or transform your code-snippets into
 formatoptions if you post them in a new [issue][issues].
 
 If you're just looking for a specific feature, please, do not hessitate to get
