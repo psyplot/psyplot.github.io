@@ -1,6 +1,6 @@
 ---
 title: psyplot
-layout: splash
+layout: home
 permalink: /
 hidden: true
 header:
