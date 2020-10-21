@@ -116,3 +116,31 @@ html {
   text-decoration: none;
   border-radius: 50%;
 }
+
+#project-row {
+  .feature__item {
+    @include breakpoint($small) {
+      width: span(3 of 12);
+
+      &:nth-child(3n + 1) {
+        clear: none;
+        margin-left: gutter(of 12);
+      }
+
+      &:nth-child(3n + 2) {
+        clear: none;
+        margin-left: gutter(of 12);
+      }
+
+      &:nth-child(3n + 3) {
+        clear: none;
+        margin-left: gutter(of 12);
+      }
+
+      &:nth-child(4n + 1) {
+        clear: both;
+        margin-left: 0;
+      }
+    }
+  }
+}

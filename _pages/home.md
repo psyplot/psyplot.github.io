@@ -91,18 +91,6 @@ feature_row:
           types of analysis questions that arise in pioneering research, and to
           continuously add more features.
 
-    - image_path: /assets/images/logos.png
-      alt: Logos
-      title: Open Science
-      url: "https://psyplot.readthedocs.io/en/latest/installing.html"
-      btn_class: "btn--primary btn--outline"
-      btn_label: <i class="fas fa-download"></i> Install now
-      excerpt: |
-          All packages are open-source, freely available, and developped
-          transparently.
-          <br>
-          Install it via <code>pip</code> or <code>conda</code>,
-          or <a href="https://github.com/psyplot" title="The psyplot GitHub organization">get the source code on GitHub</a>.
 project_row:
     - title: psyplot
       image_path: /assets/images/logo.png
@@ -176,17 +164,41 @@ project_row:
           <a href="https://www.statsmodels.org/stable/index.html">statsmodels</a>
           and <a href="https://www.scipy.org/scipylib/index.html">scipy</a> to
           fit regression models to your data.
-
-
+open-science-gallery:
+    - url: /assets/images/python-logo-inkscape.svg
+      image_path: /assets/images/python-logo-inkscape.svg
+      title: All psyplot packages are available from [pypi.org](https://pypi.org) and installable via `pip`
+      alt: python logo
+    - url: /assets/images/Conda_logo.svg
+      image_path: /assets/images/Conda_logo.svg
+      title: All psyplot packages are available via `conda` and the [conda-forge](https://conda-forge.org) channel
+      alt: conda logo
+    - url: /assets/images/GitHub_Logo.svg
+      image_path: /assets/images/GitHub_Logo.svg
+      title: The source code for all psyplot packages are available [on GitHub](https://github.com/psyplot)
+      alt: github logo
 ---
-## Key Features
+# Key Features
 {% include feature_row %}
 
-## Projects
+# Projects
 
-{% include feature_row id="project_row" type="center"%}
+<div id="project-row">
+  {% include feature_row id="project_row" %}
+</div>
 
-## Contribute
+# Open Science
+
+{% include gallery id="open-science-gallery" %}
+All packages are open-source, freely available, and developped transparently. Install it via `pip` or `conda`,
+or [get the source code on GitHub](https://github.com/psyplot).
+
+[Install](https://psyplot.readthedocs.io/en/latest/installing.html){: .btn}{: .btn--primary}{: .btn--outline}
+
+---
+
+# Contribute
+
 We are always looking for contributors providing new plugins, formatoptions,
 code snippets, etc.! The [developers guide][devguide] provide some general
 background on the framework. We are looking forward to your PR in one of our
