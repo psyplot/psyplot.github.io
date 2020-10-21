@@ -11,6 +11,10 @@ header:
   actions:
     - label: <i class="fas fa-download"></i> Install now
       url: https://psyplot.readthedocs.io/en/latest/installing.html
+    - label: <i class="fab fa-fw fa-gitter"></i> Get in touch
+      url: https://gitter.im/psyplot
+    - label: <i class="fas fa-fw fa-mail-bulk"></i> Join the mailing list
+      url: https://www.listserv.dfn.de/sympa/subscribe/psyplot
 tagline: |
     Interactive Data Visualization from Python and GUIs.<br />
 
