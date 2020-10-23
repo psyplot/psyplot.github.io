@@ -34,19 +34,19 @@ feature_row:
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fas fa-book"></i> Read more
       excerpt: |
-          The 2D plotmethods support the visualization of unstructured grids,
+          The 2D plot methods support the visualization of unstructured grids,
           such as the
           <a href="https://mpimet.mpg.de/en/science/modeling-with-icon" title="ICON Earth system model of the Max-Planck-Institute for Meteorology">ICON</a> model
           or the <a href="http://ugrid-conventions.github.io/ugrid-conventions/">UGRID</a> conventions.
 
     - image_path: /assets/images/example-plots.png
       alt: plot methods
-      title: Flexible plotmethods
+      title: Flexible plot methods
       url: https://psyplot.github.io/examples/
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fas fa-book"></i> See examples
       excerpt: |
-          We already have many plugins with many many formatoptions in existing
+          We already have many plugins with many many format options in existing
           <a href="https://psyplot.readthedocs.io/en/latest/plugins.html">plugins</a>
           to flexibly visualize your data.
 
@@ -203,11 +203,11 @@ or [get the source code on GitHub](https://github.com/psyplot).
 
 # Contribute
 
-We are always looking for contributors providing new plugins, formatoptions,
+We are always looking for contributors providing new plugins, format options,
 code snippets, etc.! The [developers guide][devguide] provide some general
 background on the framework. We are looking forward to your PR in one of our
 [repositories on Github][github], or transform your code-snippets into
-formatoptions if you post them in a new [issue][issues].
+format options if you post them in a new [issue][issues].
 
 We kindly ask you to adhere to the [code of conduct][coc]. Feel free to
 checkout our [contribution guide][contrib] for more information, and a guide
