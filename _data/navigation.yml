@@ -4,6 +4,8 @@ main:
   - title: Projects
     url: /#projects
   - title: Contact
+    url: /#get-in-touch
+  - title: Contribute
     url: /#contribute
 
 footer:

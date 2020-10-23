@@ -209,13 +209,6 @@ background on the framework. We are looking forward to your PR in one of our
 [repositories on Github][github], or transform your code-snippets into
 formatoptions if you post them in a new [issue][issues].
 
-If you're just looking for a specific feature, please, do not hessitate to get
-in touch with the psyplot developers via one of the following channels:
-
-- Create an issue at the [bug tracker][issues]
-- Chat with the developers [on gitter][gitter]
-- Subscribe to the [mailing list][mailing list] and ask for support
-
 We kindly ask you to adhere to the [code of conduct][coc]. Feel free to
 checkout our [contribution guide][contrib] for more information, and a guide
 about good bug reports.
@@ -224,7 +217,21 @@ about good bug reports.
 [github]: https://github.com/psyplot
 [devguide]: https://psyplot.readthedocs.io/en/latest/develop/index.html
 [issues]: https://github.com/psyplot/psyplot/issues
-[gitter]: https://gitter.im/psyplot/community
-[mailing list]: https://www.listserv.dfn.de/sympa/subscribe/psyplot
 [coc]: https://github.com/psyplot/psyplot/blob/master/CODE_OF_CONDUCT.md
 [contrib]: https://github.com/psyplot/psyplot/blob/master/CONTRIBUTING.md
+
+
+---
+
+# Get in touch
+
+If you are looking for a specific feature or have troubles with visualizing
+certain files, please, do get in touch with the psyplot developers via one of
+the following channels:
+
+- Chat with the developers [on gitter][gitter]
+- Subscribe to the [mailing list][mailing list] and ask for support
+- Create an issue at the [bug tracker][issues]
+
+[gitter]: https://gitter.im/psyplot/community
+[mailing list]: https://www.listserv.dfn.de/sympa/subscribe/psyplot
