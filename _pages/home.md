@@ -36,8 +36,8 @@ feature_row:
       excerpt: |
           The 2D plot methods support the visualization of unstructured grids,
           such as the
-          <a href="https://mpimet.mpg.de/en/science/modeling-with-icon" title="ICON Earth system model of the Max-Planck-Institute for Meteorology">ICON</a> model
-          or the <a href="http://ugrid-conventions.github.io/ugrid-conventions/">UGRID</a> conventions.
+          <a href="https://mpimet.mpg.de/en/science/modeling-with-icon/icon-configurations" title="ICON Earth system model of the Max-Planck-Institute for Meteorology">ICON</a>
+          model or the <a href="http://ugrid-conventions.github.io/ugrid-conventions/">UGRID</a> conventions.
 
     - image_path: /assets/images/example-plots.png
       alt: plot methods
