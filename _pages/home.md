@@ -15,8 +15,6 @@ header:
       url: https://gitter.im/psyplot
     - label: <i class="fas fa-fw fa-mail-bulk"></i> Join the mailing list
       url: https://www.listserv.dfn.de/sympa/subscribe/psyplot
-    - label: <i class="fas fa-fw fa-chalkboard-teacher"></i> TechTalk, Nov, 17th
-      url: https://www.dkrz.de/up/news-and-events/tech-talks/tech-talk-visualizing-unstructured-grids-from-scripts-and-gui-with-psyplot
 tagline: |
     Interactive Data Visualization from Python and GUIs.<br />
 
