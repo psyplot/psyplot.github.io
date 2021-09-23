@@ -40,7 +40,8 @@ The contents of the psyplot website and its source code repository is published
 under the Creative Commons Attribution 4.0 International Public License (CC BY 4.0).
 See the [LICENSE](LICENSE) file for more details.
 
-Copyright (c) 2020, Philipp S. Sommer.
+Copyright (c) 2021, Helmholtz Zentrum Hereon
+Copyright (c) 2020-2021, Helmholtz Zentrum Geesthacht
 
 The original software for creating this website, the Minimal Mistakes Jekyll
 Theme, is distributed under the MIT license, see
