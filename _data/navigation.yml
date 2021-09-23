@@ -10,11 +10,11 @@ main:
 
 footer:
   - title: Imprint
-    url: https://www.hzg.de/public_relations_media/imprint/index.php.en
+    url: https://www.hereon.de/innovation_transfer/communication_media/imprint/index.php.en
   - title: Data Protection
-    url: https://www.hzg.de/public_relations_media/imprint/privacy_policy/index.php.en
+    url: https://www.hereon.de/public_relations_media/imprint/privacy_policy/index.php.en
   - title: Accessibility
-    url: https://www.hzg.de/public_relations_media/imprint/barrierefreiheit/index.php.en
+    url: https://www.hereon.de/public_relations_media/imprint/barrierefreiheit/index.php.en
   - title: Code of Conduct
     url: https://github.com/psyplot/psyplot/blob/master/CODE_OF_CONDUCT.md
   - title: License

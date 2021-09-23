@@ -1,6 +1,6 @@
-- name: HZG
-  image_path: /assets/images/hzg-logo.svg
-  url: https://hzg.de
+- name: Hereon
+  image_path: /assets/images/hereon_Logo_quer.svg
+  url: https://www.hereon.de
 - name: HCDC
   image_path: /assets/images/hcdc-logo.gif
-  url: https://hcdc.hzg.de
+  url: https://hcdc.hereon.de
