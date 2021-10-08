@@ -10,7 +10,7 @@ header:
   og_image: /assets/images/earth.png
   actions:
     - label: <i class="fas fa-download"></i> Install now
-      url: https://psyplot.readthedocs.io/en/latest/installing.html
+      url: https://psyplot.github.io/psyplot/installing.html
     - label: <i class="fab fa-fw fa-gitter"></i> Get in touch
       url: https://gitter.im/psyplot
     - label: <i class="fas fa-fw fa-mail-bulk"></i> Join the mailing list
@@ -47,13 +47,13 @@ feature_row:
       btn_label: <i class="fas fa-book"></i> See examples
       excerpt: |
           We already have many plugins with many many format options in existing
-          <a href="https://psyplot.readthedocs.io/en/latest/plugins.html">plugins</a>
+          <a href="https://psyplot.github.io/psyplot/plugins.html">plugins</a>
           to flexibly visualize your data.
 
     - image_path: /assets/images/script.png
       alt: python logo
       title: Usage in Scripts
-      url: https://psyplot.readthedocs.io/en/latest/getting_started.html
+      url: https://psyplot.github.io/psyplot/getting_started.html
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fab fa-python"></i> Get started
       excerpt: |
@@ -70,7 +70,7 @@ feature_row:
       excerpt: |
           Inspired by the popular <a href="http://meteora.ucsd.edu/~pierce/ncview_home_page.html">ncview</a>
           software, we designed a simple and intuitive application to open
-          netCDF files (and more), <a href="https://psyplot.readthedocs.io/projects/psy-view/en/latest/">psy-view</a>.
+          netCDF files (and more), <a href="https://psyplot.github.io/psy-view/">psy-view</a>.
 
     - image_path: /assets/images/psyplot-gui.png
       alt: psyplot GUI
@@ -80,14 +80,14 @@ feature_row:
       btn_label: <i class="fas fa-rocket"></i> Try it here
       excerpt: |
           You cannot only easily use psyplot from scripts, it comes with a
-          <a href="https://psyplot.readthedocs.io/projects/psyplot-gui/en/latest/">
+          <a href="https://psyplot.github.io/psyplot-gui/">
             flexible graphical user interface to interactively explore your data
           </a>.
 
     - image_path: /assets/images/psyplot-framework.png
       alt: psyplot framework
       title: Flexible framework
-      url: https://psyplot.readthedocs.io/en/latest/develop/framework.html
+      url: https://psyplot.github.io/psyplot/develop/framework.html
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fas fa-book"></i> Read more
       excerpt: |
@@ -99,7 +99,7 @@ project_row:
     - title: psyplot
       image_path: /assets/images/logo.png
       alt: psyplot logo
-      url: "https://psyplot.readthedocs.io"
+      url: "https://psyplot.github.io/psyplot"
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fas fa-book"></i> Documentation
       excerpt: |
@@ -110,32 +110,32 @@ project_row:
     - title: psy-simple
       image_path: /assets/images/lines.svg
       alt: lines
-      url: "https://psyplot.readthedocs.io/projects/psy-simple"
+      url: "https://psyplot.github.io/psy-simple"
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fas fa-book"></i> Documentation
       excerpt: |
           psy-simple is a plugin for psyplot that defines various
-          <a href="https://psyplot.readthedocs.io/projects/psy-simple/en/latest/plot_methods.html">plot methods</a>
+          <a href="https://psyplot.github.io/psy-simple/plot_methods.html">plot methods</a>
           for the visualization of 1D- and 2D-data. It is the basis for more
           specialized plugins, such as psy-maps and psy-reg.
 
     - title: psy-maps
       image_path: /assets/images/map.svg
       alt: map
-      url: "https://psyplot.readthedocs.io/projects/psy-maps"
+      url: "https://psyplot.github.io/psy-maps"
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fas fa-book"></i> Documentation
       excerpt: |
           psy-maps is extends the functionalities of psy-simple using
           <a href="https://scitools.org.uk/cartopy/docs/latest/">cartopy</a>.
           With psy-maps, you can use
-          <a href="https://psyplot.readthedocs.io/projects/psy-maps/en/latest/plot_methods.html">plot methods</a>
+          <a href="https://psyplot.github.io/psy-maps/plot_methods.html">plot methods</a>
           to visualize regular and unstructured data on a map.
 
     - title: psyplot-gui
       image_path: /assets/images/psyplot-gui.png
       alt: psyplot GUI
-      url: "https://psyplot.readthedocs.io/projects/psyplot-gui"
+      url: "https://psyplot.github.io/psyplot-gui"
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fas fa-book"></i> Documentation
       excerpt: |
@@ -146,7 +146,7 @@ project_row:
     - title: psy-view
       image_path: /assets/images/psy-view.png
       alt: psy-view widget
-      url: "https://psyplot.readthedocs.io/projects/psy-view"
+      url: "https://psyplot.github.io/psy-view/"
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fas fa-book"></i> Documentation
       excerpt: |
@@ -160,7 +160,7 @@ project_row:
     - title: psy-reg
       image_path: /assets/images/regression.svg
       alt: regression fits
-      url: "https://psyplot.readthedocs.io/projects/psy-reg"
+      url: "https://psyplot.github.io/psy-reg"
       btn_class: "btn--primary btn--outline"
       btn_label: <i class="fas fa-book"></i> Documentation
       excerpt: |
@@ -197,7 +197,7 @@ open-science-gallery:
 All packages are open-source, freely available, and developped transparently. Install it via `pip` or `conda`,
 or [get the source code on GitHub](https://github.com/psyplot).
 
-[Install](https://psyplot.readthedocs.io/en/latest/installing.html){: .btn}{: .btn--primary}{: .btn--outline}
+[Install](https://psyplot.github.io/psyplot/installing.html){: .btn}{: .btn--primary}{: .btn--outline}
 
 ---
 
@@ -215,7 +215,7 @@ about good bug reports.
 
 
 [github]: https://github.com/psyplot
-[devguide]: https://psyplot.readthedocs.io/en/latest/develop/index.html
+[devguide]: https://psyplot.github.io/psyplot/develop/index.html
 [issues]: https://github.com/psyplot/psyplot/issues
 [coc]: https://github.com/psyplot/psyplot/blob/master/CODE_OF_CONDUCT.md
 [contrib]: https://github.com/psyplot/psyplot/blob/master/CONTRIBUTING.md

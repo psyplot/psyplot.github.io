@@ -1,7 +1,7 @@
 # Documentation locations of psyplot plugins, etc.
-psyplot: https://psyplot.readthedocs.io/en/latest
-psyplot-gui: https://psyplot.readthedocs.io/projects/psyplot-gui/en/latest
-psy-simple: https://psyplot.readthedocs.io/projects/psy-simple/en/latest
-psy-maps: https://psyplot.readthedocs.io/projects/psy-maps/en/latest
-psy-reg: https://psyplot.readthedocs.io/projects/psy-reg/en/latest
-psy-view: https://psyplot.readthedocs.io/projects/psy-view/en/latest
+psyplot: https://psyplot.github.io/psyplot/
+psyplot-gui: https://psyplot.github.io/psyplot-gui/
+psy-simple: https://psyplot.github.io/psy-simple/
+psy-maps: https://psyplot.github.io/psy-maps/
+psy-reg: https://psyplot.github.io/psy-reg/
+psy-view: https://psyplot.github.io/psy-view/
