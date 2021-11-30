@@ -11,8 +11,8 @@ header:
   actions:
     - label: <i class="fas fa-download"></i> Install now
       url: https://psyplot.github.io/psyplot/installing.html
-    - label: <i class="fab fa-fw fa-gitter"></i> Get in touch
-      url: https://gitter.im/psyplot
+    - label: <i class="fas fa-comments"></i> Get in touch
+      url: https://mattermost.hzdr.de/psyplot/
     - label: <i class="fas fa-fw fa-mail-bulk"></i> Join the mailing list
       url: https://www.listserv.dfn.de/sympa/subscribe/psyplot
 tagline: |
@@ -166,7 +166,7 @@ project_row:
       excerpt: |
           psy-reg is a plugin built-upon psy-simple,
           <a href="https://www.statsmodels.org/stable/index.html">statsmodels</a>
-          and <a href="https://www.scipy.org/scipylib/index.html">scipy</a> to
+          and <a href="https://scipy.org/">scipy</a> to
           fit regression models to your data.
 open-science-gallery:
     - url: /assets/images/python-logo-inkscape.svg
@@ -229,9 +229,9 @@ If you are looking for a specific feature or have troubles with visualizing
 certain files, please, do get in touch with the psyplot developers via one of
 the following channels:
 
-- Chat with the developers [on gitter][gitter]
+- Chat with the developers [on mattermost][mattermost]
 - Subscribe to the [mailing list][mailing list] and ask for support
 - Create an issue at the [bug tracker][issues]
 
-[gitter]: https://gitter.im/psyplot/community
+[mattermost]: https://mattermost.hzdr.de/psyplot/
 [mailing list]: https://www.listserv.dfn.de/sympa/subscribe/psyplot
